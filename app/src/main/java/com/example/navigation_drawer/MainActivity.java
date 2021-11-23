@@ -18,6 +18,8 @@ import com.google.android.material.navigation.NavigationView;
  *
  * Layout File for the activity: activity_main.xml
  * Layout File for the menu: drawer_navigation.xml
+ *
+ * @author Lukas Plenk
  */
 public class MainActivity extends AppCompatActivity implements NavigationView.OnNavigationItemSelectedListener {
 
