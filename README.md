@@ -4,7 +4,7 @@
 Welcome to our Android application. The app is part of the Open Sorce [Android App Library](https://github.com/LukPle/android-app-library.git) 
 and adopts all licensing and community guidelines from this project. Please use the link in order to check out the corresponding repository.
 
-The navigation-drawer app showcases a Navigation Drawer with Fragments which is the most used navigation method in Android.
+The navigation-drawer app showcases a **Navigation Drawer** with **Fragments** which is the most used navigation method in Android.
 This serves as an example of this feature and provides an easy to use menu.
 
 ## Features
