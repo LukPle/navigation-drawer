@@ -8,7 +8,7 @@ The navigation-drawer app showcases a **Navigation Drawer** with **Fragments** w
 This serves as an example of this feature and provides an easy to use menu.
 
 ## Features
-The setting for this example is a fitness application. There are six differnet menu options in the navigation drawer which represent different screen. 
+The setting for this example is a fitness application. There are six differnet menu options in the navigation drawer which represent different screens. 
 Clicking on one of them invokes the matching Fragment. The Home Fragment is displayed at the start of the app.
 
 ## Usage
