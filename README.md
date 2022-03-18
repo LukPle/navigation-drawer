@@ -9,7 +9,11 @@ This serves as an example of this feature and provides an easy to use menu.
 
 ## Features
 The setting for this example is a fitness application. There are six differnet menu options in the navigation drawer which represent different screens. 
-Clicking on one of them invokes the matching Fragment. The Home Fragment is displayed at the start of the app.
+Clicking on one of them invokes the matching Fragment. The Home Fragment is displayed at the start of the app. </br>
+
+![](demo_pictures/Screen1.png)
+![](demo_pictures/Screen2.png)
+![](demo_pictures/Screen3.png)
 
 ## Usage
 You can clone the repository into Android Studio by clicking "Get from VCS" in the Welcome Screen or navigating to "File - New - Project from Version Control" inside 
